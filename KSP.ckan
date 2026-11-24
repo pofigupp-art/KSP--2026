@@ -1,0 +1,439 @@
+{
+    "spec_version": "v1.6",
+    "identifier": "KerbalSpaceProgram",
+    "name": "установлено-KerbalSpaceProgram",
+    "abstract": "Список модулей, установленных в сборке «KerbalSpaceProgram»",
+    "author": "fffil",
+    "version": "2026.11.24.06.09.40",
+    "ksp_version_min": "1.8",
+    "ksp_version_max": "1.12",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "B9PartSwitch",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityResourcePack",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RasterPropMonitor-Core",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CryoTanks",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CryoTanks-Core",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SystemHeat",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProceduralParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Spectra",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Spectra-Scatterer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureElectrical-Core",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ReStock",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Waterfall",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9-props",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalAtomics",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPBurst",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CryoEngines",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FireflyAPI",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Kerbalism",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Kerbalism-Config-Default",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureElectrical",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFuturePropulsion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureSolar",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureSolar-Core",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureSpacecraft",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PlanetShine",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PlanetShine-Config-Default",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProceduralFairings",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealPlume",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealPlume-StockConfigs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealChute",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StationPartsExpansionRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VenStockRevamp-Core",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9AerospaceHX",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9AerospaceLegacy",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9-PWings-Fork",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Bureaucracy",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CameraTools",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CapCom",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityTechTree",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ContractConfigurator-ExplorationPlus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CryoEngines-NFAero",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DE-IVAExtension",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DecouplerShroud",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DistantObject",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ExtraDockingPorts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FarFutureTechnologies",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FerramAerospaceResearchContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Firefly",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FreeIva",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MunarIndustriesFTX",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HeatControl",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalAtomics-NFECompatibility",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalAtomics-NTRModSupport",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalEngineerRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KIS",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSAIVAUpgrade",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MechJeb2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Mk1CockpitIVAReplbyASET",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Mk1LanderCanIVAReplbyASET",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MK12PodIVAReplacementbyASET",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Mk3ShuttleMidDeckIVARefurbished",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NavballDockAlignIndCE",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureAeronautics",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureConstruction",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureElectrical-DecayingRTGs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureExploration",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureLaunchVehicles",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFuturePropulsion-XenonHETs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureSpacecraft-OrbitalLFOEngines",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PersistentRotationUpgraded",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProceduralFairings-ForEverything",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MainSailorTextures-Fairings",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "GammaTextures",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MainSailorTextures-Historical",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MainSailorTextures-Theta",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RasterPropMonitor",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealChuteForStock",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RestockRigidLegs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ReStockPlus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Reviva",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RocketSoundEnhancement",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SCANsat",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Spectra-EVEKerbinLaytheSnow",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Spectra-EVEMinmusGeysers",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Spectra-ScattererMinmus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Spectra-ScattererJoolShineOnLaythe",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Spectra-ScattererVibrantSunsets",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StageableRCS",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StockWaterfallEffects",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SystemHeat-FissionReactors",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SystemHeat-Converters",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SystemHeat-Harvesters",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TextureReplacer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TexturesUnlimited",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TrackingStationEvolved",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScale",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "UniversalStorage2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VABOrganizer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VenStockRevamp-NewParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WaterfallRestock",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ZTheme",
+            "suppress_recommendations": true
+        }
+    ],
+    "release_date": "2026-11-24T18:09:40.3749548Z",
+    "kind": "metapackage"
+}
